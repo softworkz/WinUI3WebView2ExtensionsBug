@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WinUI3WebView2ExtensionsBug (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "WinUI3WebView2ExtensionsBug (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
